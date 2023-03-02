@@ -2,7 +2,9 @@
 - 👀 I’m interested in technology,cars,software,designing,leadership
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me (ezzsadaty) instagram account
-- ✨ I'm now learning Full-Stack Web Development 
+- ✨ I'm learning Full-Stack Web Development 
+- ✨ Front-End : html,css,js,bootsrap,jquery,React
+- ✨ Back-end : python ,django
 
 <!---
 ezzsadaty/ezzsadaty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
